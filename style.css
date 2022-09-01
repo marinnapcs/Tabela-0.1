@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    max-width: 500px;
+      margin: auto;
+      margin-right: auto;
+      text-align: center;
+    
+  }
+
+
+tbody{
+    text-align: center;
+}
+
+strong{
+    width: 300px;
+    height: 250px;
+    background-color: rgb(208, 158, 255);
+}
+
+body{
+   background:linear-gradient( 45deg,pink,rgb(143, 73, 73),rgb(216, 121, 121))no-repeat center/cover;
+   width: 100vw;
+   height: 100vh;
+}
+
+@keyframes gradient{
+
+}
